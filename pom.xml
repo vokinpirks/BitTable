@@ -64,7 +64,7 @@
                         </manifest>
                     </archive>
                     <excludes>
-                        <exclude>gifs/**</exclude>
+                        <exclude>media/**</exclude>
                     </excludes>
                 </configuration>
             </plugin>
