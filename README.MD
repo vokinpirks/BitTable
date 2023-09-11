@@ -131,14 +131,4 @@ There are also several ways how a source file can be chosen:
 ***
 ### Examples
 
-![](https://github.com/vokinpirks/BitTable/blob/master/src/main/resources/media/doc_2023-09-11_00-59-20.mp4)
-
-![](https://github.com/vokinpirks/BitTable/blob/master/src/main/resources/media/doc_2023-09-11_00-59-28.mp4)
-
-![](https://github.com/vokinpirks/BitTable/blob/master/src/main/resources/media/doc_2023-09-11_00-59-33.mp4)
-
-
-
-
-
 
