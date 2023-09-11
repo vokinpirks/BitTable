@@ -11,7 +11,7 @@ public class OS {
 
     public static String defaultBwsBinaryPath() {
         if (isWindows()) {
-            return "%ProgramW6432%\\Bitwig Studio\\${bws.version}\\bin";
+            return "C:\\Program Files\\Bitwig Studio\\${bws.version}\\bin";
         } else if (isMac()) {
             return "/Applications/Bitwig Studio/Contents/MacOS";
         } else if (isUnix()) {
