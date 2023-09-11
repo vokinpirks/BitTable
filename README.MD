@@ -19,9 +19,9 @@
 
 ***
 ## Installation
-- Download [latest release](https://github.com/vokinpirks/BitTable/releases/latest)
-- [Install](https://www.bitwig.com/support/technical_support/how-do-i-add-a-controller-extension-or-script-17/) the bwextension file you've just downloaded as a Bitwig Studio extension
-- Activate the extension. Settings -> Controllers -> Add Controller -> select Hardware Vendor 'Utilities' -> BitTable -> Add 
+- Download the BitTable.bwextension file from the [latest release](https://github.com/vokinpirks/BitTable/releases/latest)
+- [Install](https://www.bitwig.com/support/technical_support/how-do-i-add-a-controller-extension-or-script-17/) the file you downloaded as a Bitwig Studio extension
+- Activate the extension: Settings -> Controllers -> Add Controller -> select Hardware Vendor 'Utilities' -> BitTable -> Add 
 
 ***
 ## Settings
